@@ -1,0 +1,133 @@
+{
+  "name": "Chetan",
+  "headerTaglineOne": "こんにちは 👋",
+  "headerTaglineTwo": "私はチェタン・ヴァーマ - 好奇心旺盛な",
+  "headerTaglineThree": "デザイナー兼開発者",
+  "headerTaglineFour": "インドのニューデリーを拠点に活動しています。",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/chetanverma16"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn", 
+      "link": "https://www.linkedin.com/in/chetanverma7/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/realchetanverma"
+    },
+    {
+      "id": "4",
+      "title": "Blog",
+      "link": "https://blog.chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:hello@chetanverma.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "プロジェクト1",
+      "description": "ウェブデザイン",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "2",
+      "title": "プロジェクト2",
+      "description": "ウェブ開発",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "プロジェクト3",
+      "description": "デザイン",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "プロジェクト4",
+      "description": "マーケティング",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "プロジェクト5",
+      "description": "開発",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "6",
+      "title": "プロジェクト6",
+      "description": "デザイン＆開発",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "アートディレクション",
+      "description": "オンライン広告のアイデアの作成と開発を支援し、特に視覚的な外観に焦点を当てます。"
+    },
+    {
+      "id": "2",
+      "title": "ブランディング",
+      "description": "ロゴ、カラースキーム、タイポグラフィ、その他のデザイン要素を設計し、競合他社との差別化を図ります。"
+    },
+    {
+      "id": "3",
+      "title": "ウェブデザイン",
+      "description": "オンラインプレゼンスの構築と最適化を行います。ウェブサイトはビジネスへのデジタルエントリーポイントであり、強力な収益チャネルです。"
+    },
+    {
+      "id": "4",
+      "title": "3Dデザイン",
+      "description": "クリエイティブなデザインと技術スキルを組み合わせ、プロジェクトを生き生きとさせる印象的な3Dビジュアライゼーションを作成します。"
+    }
+  ],
+  "aboutpara": "Lorem Ipsumは、印刷およびタイプセット業界の単なるダミーテキストです。1500年代以来、Lorem Ipsumは業界の標準的なダミーテキストであり、未知の印刷業者がタイプのガレーを取り、タイプ標本帳を作るためにスクランブルしました。5世紀を生き延びただけでなく、電子タイプセットへの飛躍も果たし、本質的に変わっていません。1960年代にLorem Ipsumのパッセージを含むLetrasetシートのリリースで普及し、最近ではAldus PageMakerのようなデスクトップパブリッシングソフトウェアにバージョンが含まれています。",
+  "resume": {
+    "tagline": "👋 私はソフトウェアエンジニア、プロダクトデザイナーです。",
+    "description": "何百万人もの人々に世界クラスのユーザー体験を提供してきました。React、Javascript、そしてほとんどのWebフレームワークに精通しています。",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "2022年3月 - 現在",
+        "type": "フルタイム",
+        "position": "X社のフロントエンドエンジニア",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "2020年7月 - 2022年3月",
+        "type": "フルタイム",
+        "position": "X社のフロントエンドエンジニア",
+        "bullets": "Reactアプリケーションのフロントエンドを担当, Reactアプリケーションのフロントエンドを担当"
+      }
+    ],
+    "education": {
+      "universityName": "X大学",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsumは、印刷およびタイプセット業界の単なるダミーテキストです。1500年代以来、Lorem Ipsumは業界の標準的なダミーテキストであり、未知の印刷業者がタイプのガレーを取り、タイプ標本帳を作るためにスクランブルしました。"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
